@@ -1,1 +1,1 @@
-aprendi a usar o git hub, as funcionalidade dele e também aprendi a adicionar um repositório usando o CMD
+aprendi a usar o git hub, as funcionalidade dele, aprendi a adicionar um repositório usando o CMD e funcionidades do git
